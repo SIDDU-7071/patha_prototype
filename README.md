@@ -568,10 +568,6 @@ The present implementation should be considered a **proof of concept and researc
 
 ---
 
-# 15. License
-
-Add the project's license here when the team decides on one.
-
 ---
 
 ## PATHA
